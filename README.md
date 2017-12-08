@@ -5,12 +5,6 @@ I love creating solutions to problems whether it is personal or technical. Learn
 
 This repository contains my solutions to programming challenges that I solved.
 
-Python
-
-FizzBuzz on GitHubGist Running Pace Calculator Building a SQLite database with Python HTML & CSS
-
-Built a login page using HTML Built CSS Animation Rebuilt the Oregon Road Runners Club home page SQL Database
-
 Built a Community Library Database Drill Running Database JavaScript
 
 Built a script to create a slide show of images of the solar system Formulas develeped for Streak CRM.
