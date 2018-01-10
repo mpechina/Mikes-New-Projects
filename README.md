@@ -5,8 +5,10 @@ I love creating solutions to problems whether it is personal or technical. I hav
 
 This repository contains my solutions to programming challenges that I solved.
 
-Built a Community Library Database Drill Running Database JavaScript
+Built mock database for library tracking using SQL server.
 
 Built a mock website using HTML and CSS for space travel reservations.
+
+Built a movie theater website using HtML CSS and Bootstrap.
 
 
